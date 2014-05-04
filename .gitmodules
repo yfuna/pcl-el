@@ -1,0 +1,3 @@
+[submodule "vanilla-pcl"]
+	path = vanilla-pcl
+	url = https://github.com/yfuna/vanilla-pcl.git
